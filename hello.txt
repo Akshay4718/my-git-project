@@ -1,2 +1,4 @@
 Hello, Git!
-my name is akshayFeature work in progress
+my name is akshay
+Feature work in progress
+i am from india
